@@ -1,0 +1,4 @@
+loadboard STM32L0538-DISCO allmodes
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+SetCopyLibrary "copy only"
